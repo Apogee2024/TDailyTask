@@ -35,9 +35,7 @@ This tool was developed to automate daily tasks . It interacts with a custom por
 2. Place reference images (e.g., `start_button.png`, `complete.png`) in the working directory.
 
 3. Run the script:
-    ```bash
-    python main.py
-    ```
+    python3 main.py
 
 ## Example Functions
 
